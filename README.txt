@@ -1,0 +1,1 @@
+This is a simple test chat, works on one PC if you open the main.py 2+ times
